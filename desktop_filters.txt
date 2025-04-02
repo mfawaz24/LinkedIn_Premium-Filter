@@ -1,6 +1,27 @@
+! last-updated: 01-April-2025
+
 linkedin.com##.global-nav__primary-link--no-icon
 linkedin.com##section.mt2.break-words.pv-profile-card.artdeco-card:nth-of-type(2) > .ZrKmYbhRDKWCwyJWVTSwOKEpalqlqVLKjOM > .sCiWHqtHhmVWfgILTuIeqqHNRrIGTZQUhSc > li.ZvvQhPWJGkWrREeznkqUJoYXRWgMDVyvtAsOGHA.tPxaMyJIJWQYjfFoWGWGevqUqrPZefjU.artdeco-list__item:nth-of-type(3)
 linkedin.com##.pe-profile-top-card-form__upsell-wrapper.p3.artdeco-card
 linkedin.com##.fb-gai-text__ai-suggestion-bar.ai-suggestions-bar
 linkedin.com##.global-nav__secondary-premium-cta-text
 linkedin.com##.ml3.align-items-center.display-flex.pvs-premium-upsell__container--align-start.pvs-premium-upsell__container
+
+linkedin.com##.premium-upsell-link--icon.premium-upsell-link--margin.premium-upsell-link--truncate.global-nav__spotlight-premium-upsell.global-nav__primary-link--premium-upsell.global-nav__primary-link.link-without-visited-state
+linkedin.com##.mb2.ph1.overflow-hidden.artdeco-card
+linkedin.com##.pv4.ph2.mt4.artdeco-card
+linkedin.com##.ember-view.align-items-center.display-flex.artdeco-modal-overlay--is-top-layer.artdeco-modal-overlay--layer-default.artdeco-modal-overlay
+linkedin.com###ember1095
+linkedin.com##.align-items-center.display-flex.mr4.pv3.search-result__upsell-divider.flex-1.align-items-flex-start
+linkedin.com###ember121
+linkedin.com###ember88
+linkedin.com###ember58
+linkedin.com###ember104
+linkedin.com##._1xoe5hda > .cnuthtg8.cnuthtao._1xoe5hdi > section._1xoe5hd4a.cnutht1e0._139m7k23._85ptzzo.h8e4ml5q
+linkedin.com##div._1xoe5hda > ._1xoe5hd4a.cnutht1e0._139m7k23._85ptzzo.h8e4ml5q > .cnuthte0.cnuthteg.cnutht14.cnutht15c.cnuthtao._1xoe5hdi > .cnuthte0.cnuthteg.cnutht14.cnutht15c.cnuthtao._1xoe5hdi > .cnuthtao._1xoe5hdi
+linkedin.com##.cnuthtfs.cnuthte0.cnutht14.cnutht15s.cnuthtb4._1xoe5hdi._1k2lxmemw
+linkedin.com##div:nth-of-type(7) > .mt4.artdeco-card > .align-items-center.justify-center.display-flex
+linkedin.com##._1k2lxme11c.en2g8a0 > .cnuthteg.cnuthte0.cnuthtb4._1xoe5hdi > li.cnuthtd7.cnuthtbs.en2g8a1:nth-of-type(2) > ._1s9oaxgl._1s9oaxgi._1s9oaxgb.cnutht1ew._1ptbkx61h7._1ptbkx61gg._1mamebb2._1s9oaxg7.cnutht14w._1ptbkx69s.cnuthtao._1xoe5hdi._1xoe5hd0.h8e4ml0.cnutht0._1gbw7kg1
+linkedin.com##.global-nav__secondary-premium-chip-icon.flex-shrink-zero.mr1
+linkedin.com##.list-style-none.mt2
+linkedin.com##div.news-module__subheader:nth-of-type(3)
