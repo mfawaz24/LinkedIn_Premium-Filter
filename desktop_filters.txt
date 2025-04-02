@@ -1,0 +1,6 @@
+linkedin.com##.global-nav__primary-link--no-icon
+linkedin.com##section.mt2.break-words.pv-profile-card.artdeco-card:nth-of-type(2) > .ZrKmYbhRDKWCwyJWVTSwOKEpalqlqVLKjOM > .sCiWHqtHhmVWfgILTuIeqqHNRrIGTZQUhSc > li.ZvvQhPWJGkWrREeznkqUJoYXRWgMDVyvtAsOGHA.tPxaMyJIJWQYjfFoWGWGevqUqrPZefjU.artdeco-list__item:nth-of-type(3)
+linkedin.com##.pe-profile-top-card-form__upsell-wrapper.p3.artdeco-card
+linkedin.com##.fb-gai-text__ai-suggestion-bar.ai-suggestions-bar
+linkedin.com##.global-nav__secondary-premium-cta-text
+linkedin.com##.ml3.align-items-center.display-flex.pvs-premium-upsell__container--align-start.pvs-premium-upsell__container
